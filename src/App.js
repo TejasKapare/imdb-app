@@ -9,7 +9,7 @@ import Movie from './pages/MovieDetail/Movie';
 function App() {
   return (
     <div className="App">
-      <Router basename='/imdb-app'>
+      <Router>
         <Header />
         <Routes>
           <Route index element={<Home />}></Route>
