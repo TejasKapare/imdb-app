@@ -2,7 +2,7 @@
   "name": "imdb_react_clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TejasKapare.github.io/imdb-app",
+  "homepage": "https://tejaskapare.github.io/imdb-app/",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
