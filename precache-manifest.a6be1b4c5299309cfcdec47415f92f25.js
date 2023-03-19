@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/imdb-app/static/js/runtime~main.96ad6904.js"
   },
   {
-    "revision": "f9d5188fc2109006ad9746bf20aadbdb",
+    "revision": "1296676a1f31a1c8aa083b3060b59b1b",
     "url": "/imdb-app/index.html"
   }
 ];
