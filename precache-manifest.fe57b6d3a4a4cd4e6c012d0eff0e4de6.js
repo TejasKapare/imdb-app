@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "411732cf5bf19fa4e7f9",
+    "revision": "bc12bb9f5ddb7a263aa8",
     "url": "/imdb-app/static/css/main.508c04cd.chunk.css"
   },
   {
-    "revision": "411732cf5bf19fa4e7f9",
-    "url": "/imdb-app/static/js/main.411732cf.chunk.js"
+    "revision": "bc12bb9f5ddb7a263aa8",
+    "url": "/imdb-app/static/js/main.bc12bb9f.chunk.js"
   },
   {
     "revision": "5df50f20135844d1f62b",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/imdb-app/static/js/runtime~main.96ad6904.js"
   },
   {
-    "revision": "1296676a1f31a1c8aa083b3060b59b1b",
+    "revision": "0aa46ca9c2e461b14a09bd7b1076b2b5",
     "url": "/imdb-app/index.html"
   }
 ];
